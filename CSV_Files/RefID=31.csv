@@ -1,0 +1,28 @@
+RefID,SampleID,Sample Name,LaboratoryCode,Locality,Country,Latitude,Longitude,Easting,Northing,Zone,Elevation (m),Depth (m),Mineral,Lithology,Geological_Environment,U (ppm),±,Th (ppm),±,Sm (ppm),±,He (nmol/g),±,Th/U,eU (ppm),Calculated Age (Ma),±,Corrected Age (Ma) [5-15% or 4/3],±,U (ng),±,Th (ng),±,Sm (ng),±,He (ncc),±,He (ncc/g),±,U (nmol),±,Th (nmol),±,Sm (nmol),±,He (nmol),±,U (nmol/g),±,Th (nmol/g),±,Sm (nmol/g),±,He (nmol/g),±,Notes
+#31,#31-0001,Cortex,,Minas Gerais,Brazil,"19°20'20.83""S","47°17'38.5""W",,,,1100,,goethite,pyroclastic and epiclastic rocks,Laterizided Alkaline-Carbonatite Complexes,9.70,,58.30,,1.70,,1.55,,6.01,23.40,12.20,1.50,13.40,,,,,,,,,,,,,,,,,,,,,,,,,,,,Approximate geographic location
+#31,#31-0002,Cortex,,Minas Gerais,Brazil,"19°20'20.83""S","47°17'38.5""W",,,,1100,,goethite,pyroclastic and epiclastic rocks,Laterizided Alkaline-Carbonatite Complexes,10.70,,70.90,,3.10,,1.68,,6.63,27.36,11.40,0.40,12.50,,,,,,,,,,,,,,,,,,,,,,,,,,,,Approximate geographic location
+#31,#31-0003,Cortex,,Minas Gerais,Brazil,"19°20'20.83""S","47°17'38.5""W",,,,1100,,goethite,pyroclastic and epiclastic rocks,Laterizided Alkaline-Carbonatite Complexes,10.40,,63.20,,2.10,,1.48,,6.08,25.25,10.80,0.30,11.90,,,,,,,,,,,,,,,,,,,,,,,,,,,,Approximate geographic location
+#31,#31-0004,Cortex,,Minas Gerais,Brazil,"19°20'20.83""S","47°17'38.5""W",,,,1100,,goethite,pyroclastic and epiclastic rocks,Laterizided Alkaline-Carbonatite Complexes,12.20,,73.40,,2.30,,1.79,,6.02,29.45,11.20,0.40,12.30,,,,,,,,,,,,,,,,,,,,,,,,,,,,Approximate geographic location
+#31,#31-0005,Cortex,,Minas Gerais,Brazil,"19°20'20.83""S","47°17'38.5""W",,,,1100,,goethite,pyroclastic and epiclastic rocks,Laterizided Alkaline-Carbonatite Complexes,3.30,,16.20,,0.60,,0.44,,4.91,7.11,11.30,0.50,12.40,,,,,,,,,,,,,,,,,,,,,,,,,,,,Approximate geographic location
+#31,#31-0006,Cortex,,Minas Gerais,Brazil,"19°20'20.83""S","47°17'38.5""W",,,,1100,,goethite,pyroclastic and epiclastic rocks,Laterizided Alkaline-Carbonatite Complexes,12.20,,64.90,,1.80,,1.42,,5.32,27.45,9.50,0.30,10.50,,,,,,,,,,,,,,,,,,,,,,,,,,,,Approximate geographic location
+#31,#31-0007,Cortex,,Minas Gerais,Brazil,"19°20'20.83""S","47°17'38.5""W",,,,1100,,goethite,pyroclastic and epiclastic rocks,Laterizided Alkaline-Carbonatite Complexes,10.40,,61.40,,1.70,,1.77,,5.90,24.83,13.20,1.60,14.50,,,,,,,,,,,,,,,,,,,,,,,,,,,,Approximate geographic location
+#31,#31-0008,Cortex,,Minas Gerais,Brazil,"19°20'20.83""S","47°17'38.5""W",,,,1100,,goethite,pyroclastic and epiclastic rocks,Laterizided Alkaline-Carbonatite Complexes,10.40,,61.40,,1.70,,1.77,,5.90,24.83,13.20,1.60,14.50,,,,,,,,,,,,,,,,,,,,,,,,,,,,Approximate geographic location
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
