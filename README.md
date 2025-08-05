@@ -65,3 +65,6 @@ Contact
 
 For any questions or suggestions, please contact Hevelyn Monteiro at hevelynbr@gmail.com.
 
+[![DOI](https://zenodo.org/badge/832470869.svg)](https://doi.org/10.5281/zenodo.16741257)
+
+
